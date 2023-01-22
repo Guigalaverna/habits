@@ -1,0 +1,9 @@
+[submodule "web"]
+	path = web
+	url = https://github.com/Guigalaverna/habits-web
+[submodule "server"]
+	path = server
+	url = https://github.com/Guigalaverna/habits-server
+[submodule "mobile"]
+	path = mobile
+	url = https://github.com/Guigalaverna/habits-mobile
